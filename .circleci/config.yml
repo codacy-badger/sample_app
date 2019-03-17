@@ -10,11 +10,11 @@ jobs:
       - image: circleci/ruby:2.4.1-node-browsers
         environment:
           PGHOST: localhost
-          PGUSER: railstutorial
+          PGUSER: sample_app
           RAILS_ENV: test
       - image: postgres:9.5
         environment:
-          POSTGRES_USER: railstutorial
+          POSTGRES_USER: sample_app
           POSTGRES_DB: sample_app_test
           POSTGRES_PASSWORD: ''
 
@@ -41,6 +41,7 @@ jobs:
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
       # Database setup
+      - run: rails db:migrate
       - run: bundle exec rake db:create
       - run: bundle exec rake db:schema:load
 
