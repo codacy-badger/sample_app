@@ -2,9 +2,15 @@
 
 ## [Unreleased](https://github.com/srhodgson/sample_app/tree/HEAD)
 
+[Full Changelog](https://github.com/srhodgson/sample_app/compare/v0.1...HEAD)
+
 **Implemented enhancements:**
 
 - Configure Mini Test Reporters [\#10](https://github.com/srhodgson/sample_app/issues/10)
+
+## [v0.1](https://github.com/srhodgson/sample_app/tree/v0.1) (2019-03-22)
+**Implemented enhancements:**
+
 - Make Static\_Pages Home The Root Page [\#9](https://github.com/srhodgson/sample_app/issues/9)
 - Add a Contact Page [\#8](https://github.com/srhodgson/sample_app/issues/8)
 - Adding Page Titles [\#7](https://github.com/srhodgson/sample_app/issues/7)
