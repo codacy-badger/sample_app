@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/srhodgson/sample_app/tree/HEAD)
-
-[Full Changelog](https://github.com/srhodgson/sample_app/compare/v0.1...HEAD)
+## [v0.0.2](https://github.com/srhodgson/sample_app/tree/v0.0.2) (2019-04-17)
+[Full Changelog](https://github.com/srhodgson/sample_app/compare/v0.1...v0.0.2)
 
 **Implemented enhancements:**
 
