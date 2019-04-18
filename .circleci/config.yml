@@ -2,7 +2,9 @@
 #
 # Check https://circleci.com/docs/2.0/language-ruby/ for more details
 #
-version: 2
+version: 2.1
+orbs:
+  jira: circleci/jira@1.0.2
 jobs:
   build:
     docker:
@@ -22,6 +24,7 @@ jobs:
 
     steps:
       - checkout
+      - jira/notify
 
       # Download and cache dependencies
       - restore_cache:
