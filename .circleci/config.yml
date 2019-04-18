@@ -60,7 +60,6 @@ jobs:
           path: /tmp/test-results
           destination: test-results
 
-version: 2.1
 workflows:
   build:
     jobs:
