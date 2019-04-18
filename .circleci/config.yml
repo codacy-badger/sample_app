@@ -59,10 +59,3 @@ jobs:
       - store_artifacts:
           path: /tmp/test-results
           destination: test-results
-
-workflows:
-  build:
-    jobs:
-      - build:
-        post_steps:
-          - jira/notify
