@@ -1,5 +1,26 @@
 # Change Log
 
+## [vv0.2.0](https://github.com/srhodgson/sample_app/tree/vv0.2.0) (2019-04-25)
+[Full Changelog](https://github.com/srhodgson/sample_app/compare/v0.0.2...vv0.2.0)
+
+**Implemented enhancements:**
+
+- Generate The User Model [\#30](https://github.com/srhodgson/sample_app/issues/30)
+- Signup URL [\#26](https://github.com/srhodgson/sample_app/issues/26)
+- Generate Users Controller [\#25](https://github.com/srhodgson/sample_app/issues/25)
+- Add Integration Test for Site Layout [\#24](https://github.com/srhodgson/sample_app/issues/24)
+- Named Routes [\#23](https://github.com/srhodgson/sample_app/issues/23)
+- Update CSS To Use SASS [\#22](https://github.com/srhodgson/sample_app/issues/22)
+- Add Footer Styling [\#21](https://github.com/srhodgson/sample_app/issues/21)
+- Update Site Layout to Use Partials [\#20](https://github.com/srhodgson/sample_app/issues/20)
+- Add Logo Styling [\#19](https://github.com/srhodgson/sample_app/issues/19)
+- Add Typography [\#18](https://github.com/srhodgson/sample_app/issues/18)
+- Add Universal Styling [\#17](https://github.com/srhodgson/sample_app/issues/17)
+- Add Bootstrap And Custom SASS [\#16](https://github.com/srhodgson/sample_app/issues/16)
+- Update Home Page [\#15](https://github.com/srhodgson/sample_app/issues/15)
+- Update Application Layout [\#14](https://github.com/srhodgson/sample_app/issues/14)
+- Development [\#29](https://github.com/srhodgson/sample_app/pull/29) ([srhodgson](https://github.com/srhodgson))
+
 ## [v0.0.2](https://github.com/srhodgson/sample_app/tree/v0.0.2) (2019-04-17)
 [Full Changelog](https://github.com/srhodgson/sample_app/compare/v0.1...v0.0.2)
 
@@ -7,8 +28,8 @@
 
 - Full Title Helper [\#12](https://github.com/srhodgson/sample_app/issues/12)
 - Configure Mini Test Reporters [\#10](https://github.com/srhodgson/sample_app/issues/10)
-- Feature/filling in layout [\#28](https://github.com/srhodgson/sample_app/pull/28) ([srhodgson](https://github.com/srhodgson))
-- Feature/filling in layout [\#27](https://github.com/srhodgson/sample_app/pull/27) ([srhodgson](https://github.com/srhodgson))
+- Feature/f illing in layout [\#28](https://github.com/srhodgson/sample_app/pull/28) ([srhodgson](https://github.com/srhodgson))
+- Feature/f illing in layout [\#27](https://github.com/srhodgson/sample_app/pull/27) ([srhodgson](https://github.com/srhodgson))
 - Feature/rails flavoured ruby [\#13](https://github.com/srhodgson/sample_app/pull/13) ([srhodgson](https://github.com/srhodgson))
 - Static pages [\#11](https://github.com/srhodgson/sample_app/pull/11) ([srhodgson](https://github.com/srhodgson))
 
