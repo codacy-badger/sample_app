@@ -7,8 +7,8 @@
 
 - Full Title Helper [\#12](https://github.com/srhodgson/sample_app/issues/12)
 - Configure Mini Test Reporters [\#10](https://github.com/srhodgson/sample_app/issues/10)
-- Feature/f illing in layout [\#28](https://github.com/srhodgson/sample_app/pull/28) ([srhodgson](https://github.com/srhodgson))
-- Feature/f illing in layout [\#27](https://github.com/srhodgson/sample_app/pull/27) ([srhodgson](https://github.com/srhodgson))
+- Feature/filling in layout [\#28](https://github.com/srhodgson/sample_app/pull/28) ([srhodgson](https://github.com/srhodgson))
+- Feature/filling in layout [\#27](https://github.com/srhodgson/sample_app/pull/27) ([srhodgson](https://github.com/srhodgson))
 - Feature/rails flavoured ruby [\#13](https://github.com/srhodgson/sample_app/pull/13) ([srhodgson](https://github.com/srhodgson))
 - Static pages [\#11](https://github.com/srhodgson/sample_app/pull/11) ([srhodgson](https://github.com/srhodgson))
 
